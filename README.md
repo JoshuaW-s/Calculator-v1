@@ -1,2 +1,3 @@
 # Calculator-v1
 This is my first attempt at a basic functioning calculator. 
+It performs all the functions as intended adding, subtracting, multiplying, and dividing. The only quick is I did not build logic to determine when dividing that anything that is not a perfect divide should display as a double. It does prompt for additional calculations and I could have performed additional logic upgrades we could call it to the program, however my goal was to build a simple basic barebones calculator to check where my current progress level. My next goal is to build a calculator with a interface and build upon it with different features. Then depending on the build of it try creating an app version. One step at a time!
